@@ -1,0 +1,22 @@
+{
+  "name": "TestRepo",
+  "version": "0.1.0",
+  "summary": "A short description of TestRepo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zgsddzwj@163.com/TestRepo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zgsddzwj@163.com": "wangjianbz@enn.cn"
+  },
+  "source": {
+    "git": "https://github.com/zgsddzwj@163.com/TestRepo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TestRepo/Classes/**/*"
+}
